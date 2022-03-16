@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Pablo Wilner</h1>
+<h1 align="center">Hi 👋, I'm Pablo Manuel Wilner</h1>
 <h3 align="center">Full Stack Web Developer from Argentina living in Madrid</h3>
 
 - 🔭 I’m currently working on [Decide.it](https://www.decideit.team/)
 
 - 🌱 I’m currently learning **React & Javascript**
 
-- 📫 How to reach me **pablowilner@gmail.com**
+- 📫 How to reach me: **pablowilner@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/pablowilner/](https://www.linkedin.com/in/pablowilner/)
 
